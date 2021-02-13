@@ -5,7 +5,7 @@ defmodule Supermemo.Mixfile do
     [
       app: :supermemo,
       version: "1.0.1",
-      elixir: "~> 1.9.4",
+      elixir: "~> 1.11",
       package: package(),
       description: """
       An Elixir implementation of the Supermemo 2 Algorithm as described here:
